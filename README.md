@@ -2,6 +2,15 @@
 
 Wallpapers for CachyOS
 
+#### North
+![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
+
+#### Wave
+![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave.png)
+
+#### Wave2 Dark
+![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave2.png)
+
 #### Abstract
 ![abstract](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Abstract.png)
 
