@@ -2,8 +2,18 @@
 
 Wallpapers for CachyOS
 
-#### North
+### Meadow
+- **Dark Meadow**  
+  ![darkmeadowxp](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/darkmeadow.jpg)
+
+- **Light Meadow**  
+  ![lightmeadow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/meadow.jpf)
+
+### North  
 ![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
+
+### Wave
+![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave.png)
 
 #### Wave
 ![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave.png)
@@ -40,6 +50,9 @@ Wallpapers for CachyOS
 
 #### Dracula
 ![dracula](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Dracula.png)
+### Cosmic
+- **Cosmic**  
+  ![Cosmic](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/cosmic.jpg)
 
 #### GreenFeathers
 ![greenfeathers](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenFeathers.png)
