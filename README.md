@@ -50,6 +50,9 @@ Wallpapers for CachyOS
 
 #### Dracula
 ![dracula](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Dracula.png)
+### Cosmic
+- **Cosmic**  
+  ![Cosmic](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/cosmic.png)
 
 #### GreenFeathers
 ![greenfeathers](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenFeathers.png)
