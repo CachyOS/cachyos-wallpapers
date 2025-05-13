@@ -1,11 +1,19 @@
 ## cachyos-wallpapers
 
 Wallpapers for CachyOS
-#### Meadow
-![darkmeadowxp](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/darkmeadow.jpg)
-![lightmeadow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
-#### North
+
+### Meadow
+- **Dark Meadow**  
+  ![darkmeadowxp](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/darkmeadow.png)
+
+- **Light Meadow**  
+  ![lightmeadow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/meadow.png)
+
+### North  
 ![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
+
+### Wave
+![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave.png)
 
 #### Wave
 ![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave.png)
