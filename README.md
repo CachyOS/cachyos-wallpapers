@@ -1,7 +1,9 @@
 ## cachyos-wallpapers
 
 Wallpapers for CachyOS
-
+#### Meadow
+![darkmeadowxp](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/darkmeadow.jpg)
+![lightmeadow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
 #### North
 ![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
 
