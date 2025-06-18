@@ -3,13 +3,13 @@
 Wallpapers for CachyOS
 
 #### North
-![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/north.png)
+![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/north.png)
 
 #### Wave
-![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave.png)
+![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave.png)
 
 #### Wave2 Dark
-![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop-new/usr/share/wallpapers/cachyos-wallpapers/wave2.png)
+![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave2.png)
 
 #### Abstract
 ![abstract](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Abstract.png)
@@ -43,6 +43,9 @@ Wallpapers for CachyOS
 
 #### GreenFeathers
 ![greenfeathers](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenFeathers.png)
+
+#### EmeraldNekoLady
+![emeraldnekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/EmeraldNekoLady.png)
 
 #### GreenNekoLady
 ![greennekolady](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenNekoLady.png)
