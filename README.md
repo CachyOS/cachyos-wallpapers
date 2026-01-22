@@ -26,11 +26,17 @@ Wallpapers for CachyOS
 #### Cachy depths 5K
 ![cachydepths5k](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy%20depths%205K.png)
 
-#### CachyAdventure169
-![cachyadventure169](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyAdventure169.png)
+#### Cachy-Tan169
+![cachyadventure169](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy-Tan169.png)
 
-#### Cachyadventure219
-![cachyadventure219](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachyadventure219.png)
+#### Cachy-Tan219
+![cachyadventure219](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy-Tan219.png)
+
+#### CachyTan169
+![cachyadventure169](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyTan169.png)
+
+#### CachyTan219
+![cachyadventure219](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyTan219.png)
 
 #### DarkStreaks
 ![darkstreaks](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/DarkStreaks.png)
@@ -79,9 +85,6 @@ Wallpapers for CachyOS
 
 #### cachysurf3
 ![cachysurf](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachysurf3.jpg)
-
-#### cachysurf4
-![cachysurf4](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachysurf4.jpg)
 
 #### paper
 ![paper](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/paper.png)
