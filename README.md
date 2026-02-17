@@ -2,6 +2,10 @@
 
 Wallpapers for CachyOS
 
+#### cachyrgb
+![cachyrgb](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachyrgb.webp)
+
+
 #### North
 ![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/north.png)
 
