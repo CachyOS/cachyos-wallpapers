@@ -5,6 +5,8 @@ Wallpapers for CachyOS
 #### cachyrgb
 ![cachyrgb](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachyrgb.webp)
 
+#### cachy8gb
+![cachy8gb](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachy8gb.webp)
 
 #### North
 ![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/north.png)
