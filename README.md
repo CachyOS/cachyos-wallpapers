@@ -89,6 +89,8 @@ Wallpapers for CachyOS
 #### splash
 ![splash](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
 
-
 #### Emerald Flow
 ![emeraldflow](https://github.com/MRCYODev/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Emerald_Flow.png)
+
+#### Cache Moon
+![cachemoon](https://github.com/MRCYODev/wallpapers/blob/main/wallpapers/os/linux/arch-based/cachyos/Cache_Moon.png)
