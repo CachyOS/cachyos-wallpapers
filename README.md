@@ -45,7 +45,7 @@ Wallpapers for CachyOS
 ![cachyadventure219](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachyadventure219.png)
 
 #### Cachygalaxy99
-![cachygalaxy99](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachygalaxy00.jpg)
+![cachygalaxy99](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachygalaxy99.jpg)
 
 #### CachyOS_GreenSpace
 ![cachyos_greenspace](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_GreenSpace.png)
