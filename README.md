@@ -122,8 +122,13 @@ Wallpapers for CachyOS
 #### Splash
 ![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
 
+
+#### Splash
+![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
+
 #### Wave
 ![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave.png)
 
 #### Wave2 Dark
 ![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave2.png)
+
