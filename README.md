@@ -59,6 +59,9 @@ Wallpapers for CachyOS
 #### Cachysurf4
 ![cachysurf4](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachysurf4.jpg)
 
+#### Cache Moon
+![cachemoon](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cache_Moon.png)
+
 #### DarkStreaks
 ![darkstreaks](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/DarkStreaks.png)
 
@@ -70,6 +73,9 @@ Wallpapers for CachyOS
 
 #### EmeraldNekoLady
 ![emeraldnekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/EmeraldNekoLady.png)
+
+#### Emerald Flow
+![emeraldflow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Emerald_Flow.png)
 
 #### GreenFeathers
 ![greenfeathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenFeathers.png)
@@ -112,6 +118,9 @@ Wallpapers for CachyOS
 
 #### Spectrum
 ![spectrum](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Spectrum.png)
+
+#### Splash
+![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
 
 #### Splash
 ![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
