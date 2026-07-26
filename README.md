@@ -130,3 +130,6 @@ Wallpapers for CachyOS
 
 #### Wave2 Dark
 ![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave2.png)
+
+#### RGBNekoLady
+![rgbnekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/RGBNekoLady.png)
