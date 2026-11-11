@@ -92,8 +92,8 @@ Wallpapers for CachyOS
 #### Green_Feathers
 ![green_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Green_Feathers.png)
 
-#### limine-splash
-![limine-splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/limine-splash.png)
+#### Limine
+![limine](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Limine.png)
 
 #### Lines
 ![lines](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Lines.png)
@@ -113,14 +113,14 @@ Wallpapers for CachyOS
 #### Purple_Feathers
 ![purple_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Purple_Feathers.png)
 
+#### Retro
+![retro](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Retro.png)
+
 #### Skyscrapers
 ![skyscrapers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Skyscrapers.png)
 
 #### Spectrum
 ![spectrum](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Spectrum.png)
-
-#### splash
-![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
 
 #### Waves_Dark
 ![waves_dark](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Waves_Dark.png)
