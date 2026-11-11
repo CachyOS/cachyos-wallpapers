@@ -5,86 +5,95 @@ Wallpapers for CachyOS
 #### Abstract
 ![abstract](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Abstract.png)
 
-#### BlueFeathers
-![bluefeathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/BlueFeathers.png)
+#### Blue_Feathers
+![blue_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Blue_Feathers.png)
 
-#### BlueLady
-![bluelady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/BlueLady.png)
+#### Cache_Sky
+![cache_sky](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cache_Sky.png)
 
-#### BlueNekoLady
-![bluenekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/BlueNekoLady.png)
+#### CachyOS_Adventure
+![cachyos_adventure](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Adventure.png)
 
-#### Cachy depths 5K
-![cachydepths5k](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy%20depths%205K.png)
+#### CachyOS_Adventure_Wide
+![cachyos_adventure_wide](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Adventure_Wide.png)
 
-#### Cachy_Topography
-![cachy_topography](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography.jpg)
+#### CachyOS_Depth
+![cachyos_depth](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Depth.png)
 
-#### Cachy_Topography1
-![cachy_topography1](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography1.jpg)
+#### CachyOS_Emerald_Flow
+![cachyos_emerald_flow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Emerald_Flow.png)
 
-#### Cachy_Topography2
-![cachy_topography2](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography2.jpg)
+#### CachyOS_Galaxy
+![cachyos_galaxy](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Galaxy.jpg)
 
-#### Cachy_Topography3
-![cachy_topography3](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography3.jpg)
+#### CachyOS_Green_Space
+![cachyos_green_space](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Green_Space.png)
 
-#### Cachy_Topography4
-![cachy_topography4](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography4.jpg)
+#### CachyOS_Halloween
+![cachyos_halloween](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Halloween.png)
 
-#### Cachy_Topography5
-![cachy_topography5](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography5.jpg)
+#### CachyOS_Lady_Blue
+![cachyos_lady_blue](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Lady_Blue.png)
 
-#### Cachy_Topography6
-![cachy_topography6](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography6.jpg)
-
-#### CachyAdventure169
-![cachyadventure169](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyAdventure169.png)
-
-#### Cachyadventure219
-![cachyadventure219](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachyadventure219.png)
-
-#### Cachygalaxy99
-![cachygalaxy99](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachygalaxy99.jpg)
-
-#### CachyOS_GreenSpace
-![cachyos_greenspace](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_GreenSpace.png)
+#### CachyOS_Lady_Pink
+![cachyos_lady_pink](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Lady_Pink.png)
 
 #### CachyOS_Moon
 ![cachyos_moon](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Moon.jpg)
 
-#### Cachysurf3
-![cachysurf](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachysurf3.jpg)
+#### CachyOS_Neko_Lady_Blue
+![cachyos_neko_lady_blue](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Neko_Lady_Blue.png)
 
-#### Cachysurf4
-![cachysurf4](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachysurf4.jpg)
+#### CachyOS_Neko_Lady_Emerald
+![cachyos_neko_lady_emerald](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Neko_Lady_Emerald.png)
 
-#### Cache Moon
-![cachemoon](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cache_Moon.png)
+#### CachyOS_Neko_Lady_Green
+![cachyos_neko_lady_green](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Neko_Lady_Green.png)
 
-#### DarkStreaks
-![darkstreaks](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/DarkStreaks.png)
+#### CachyOS_Neko_Lady_Red
+![cachyos_neko_lady_red](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Neko_Lady_Red.png)
+
+#### CachyOS_North
+![cachyos_north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_North.png)
+
+#### CachyOS_Surface_Galaxy
+![cachyos_surface_galaxy](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Surface_Galaxy.jpg)
+
+#### CachyOS_Surface_Skyscrapers
+![cachyos_surface_skyscrapers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Surface_Skyscrapers.jpg)
+
+#### CachyOS_Topography_Blue
+![cachyos_topography_blue](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Blue.jpg)
+
+#### CachyOS_Topography_Emerald
+![cachyos_topography_emerald](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Emerald.jpg)
+
+#### CachyOS_Topography_Gray
+![cachyos_topography_gray](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Gray.jpg)
+
+#### CachyOS_Topography_Green
+![cachyos_topography_green](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Green.jpg)
+
+#### CachyOS_Topography_Pink
+![cachyos_topography_pink](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Pink.jpg)
+
+#### CachyOS_Topography_Red
+![cachyos_topography_red](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Red.jpg)
+
+#### CachyOS_Topography_Yellow
+![cachyos_topography_yellow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Topography_Yellow.jpg)
+
+#### Dark_Streaks
+![dark_streaks](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Dark_Streaks.png)
 
 #### Dimensions
 ![dimensions](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Dimensions.png)
 
-#### Dracula
-![dracula](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Dracula.png)
+#### Green_Feathers
+![green_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Green_Feathers.png)
 
-#### EmeraldNekoLady
-![emeraldnekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/EmeraldNekoLady.png)
-
-#### Emerald Flow
-![emeraldflow](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Emerald_Flow.png)
-
-#### GreenFeathers
-![greenfeathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenFeathers.png)
-
-#### GreenNekoLady
-![greennekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenNekoLady.png)
-
-#### Limine-splash
-![limine-splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/limine-splash.png)
+#### Limine
+![limine](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Limine.png)
 
 #### Lines
 ![lines](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Lines.png)
@@ -95,38 +104,26 @@ Wallpapers for CachyOS
 #### Metal
 ![metal](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Metal.png)
 
-#### North
-![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/north.png)
+#### Orange_Feathers
+![orange_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Orange_Feathers.png)
 
-#### OrangeFeathers
-![orangefeathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/OrangeFeathers.png)
+#### Paper_Turtle
+![paper_turtle](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Paper_Turtle.png)
 
-#### Paper
-![paper](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/paper.png)
+#### Purple_Feathers
+![purple_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Purple_Feathers.png)
 
-#### PinkLady
-![pinklady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/PinkLady.png)
+#### Retro
+![retro](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Retro.png)
 
-#### PurpleFeathers
-![purplefeathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/PurpleFeathers.png)
-
-#### RedNekoLady
-![rednekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/RedNekoLady.png)
-
-#### Skyscraper
-![skyscraper](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Skyscraper.png)
+#### Skyscrapers
+![skyscrapers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Skyscrapers.png)
 
 #### Spectrum
 ![spectrum](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Spectrum.png)
 
-#### Splash
-![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
+#### Waves_Dark
+![waves_dark](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Waves_Dark.png)
 
-#### Splash
-![splash](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/splash.png)
-
-#### Wave
-![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave.png)
-
-#### Wave2 Dark
-![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave2.png)
+#### Waves_White
+![waves_white](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Waves_White.png)
