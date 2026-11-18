@@ -8,8 +8,8 @@ Wallpapers for CachyOS
 #### Blue_Feathers
 ![blue_feathers](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Blue_Feathers.png)
 
-#### Cache_Sky
-![cache_sky](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cache_Sky.png)
+#### CachyOS_Sky
+![cache_sky](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Sky.png)
 
 #### CachyOS_Adventure
 ![cachyos_adventure](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_Adventure.png)
