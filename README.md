@@ -14,8 +14,8 @@ Wallpapers for CachyOS
 #### BlueNekoLady
 ![bluenekolady](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/BlueNekoLady.png)
 
-#### Cachy depths 5K
-![cachydepths5k](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy%20depths%205K.png)
+#### Cachy_Depths_5K
+![cachy_depths_5k](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Depths_5K.png)
 
 #### Cachy_Topography
 ![cachy_topography](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachy_Topography.jpg)
